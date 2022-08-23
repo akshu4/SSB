@@ -22,11 +22,10 @@
       font-size: 1.8vh;
 }.pd5{
    display: flex;
-padding: 1vh .5vw;
 border: .3vh solid whitesmoke;
 border-radius: 1vh;
 justify-content: center;
-margin: 1vh -9vw;
+margin: .5vh -1vw;
 }
 .topheadingmargin{
    margin: -2vh 4vw -2vh 1vw;
