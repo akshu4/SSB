@@ -90,3 +90,9 @@
    left: 35vw;
    margin: 1vh auto
 }
+.botm{
+   display: flex;
+margin: 2vh;
+justify-content: center;
+color: brown;
+}

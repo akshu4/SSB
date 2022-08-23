@@ -80,6 +80,7 @@
    justify-content: center;
    margin: 0vh 5vw 1vh -2vw;
 }
+
 .downbox {
    display: flex;
    margin: -0.2vh 0vw 0.6vh 50vw;
@@ -89,13 +90,10 @@
 .tbdymrg{
    margin: 0vh 0vw -2vh;
 }
-.footcont {
-   color: burlywood;
-   position: absolute;
-   top: 282vh;
-   left: 8vw;
-   margin: -4vh 0vw;
-   font-size: 1.5vh;
-   padding: .5vh .5vw .5vh .5vw;
+.botm{
+   font-size: 1.6vh;
+   margin: 1vh -3vw 1vh -12vw;
+   display: flex;
+   break-before: page;
 }
 }
