@@ -10,6 +10,21 @@
    color: white;
    font-size: 20px;
 }
+.topheadingmargin{
+   margin: -2vh 5vw 8vh 2vw;
+   display: flex;
+   padding: 2px 8px 2px 13px;
+   border: 2px solid whitesmoke;
+   border-radius: 19px;
+   justify-content: center;
+}
+.topheadingmargin2{
+   margin: 0vh 4vw 6vh 1vw;
+   display: flex;
+   padding: 0.1vh .1vw .1vh .1vw;
+   justify-content: center;
+}
+
 
 .table1 {
    display: flex;
