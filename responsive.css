@@ -22,8 +22,8 @@
       font-size: 12px;
 }.pd5{
    display: flex;
-padding: 1vh 1vw;
-border: .4vh solid whitesmoke;
+padding: 1vh .5vw;
+border: .3vh solid whitesmoke;
 border-radius: 1vh;
 justify-content: center;
 margin: 1vh -9vw;
