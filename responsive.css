@@ -15,11 +15,11 @@
    }
    .pdres{
       display: inline-grid;
-      padding: 0px 11px;
+      padding: 1vh 1vw 1vh 1vw;
       border-radius: 19px;
       justify-content: center;
-      margin: 1vh 1vw;
-      font-size: 12px;
+      margin: 1vh 4vw 1vh 4vw;
+      font-size: 1.8vh;
 }.pd5{
    display: flex;
 padding: 1vh .5vw;
