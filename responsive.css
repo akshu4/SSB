@@ -41,7 +41,7 @@
    }
 
    .topheadingmargin2 {
-      margin: 8vh 4vw 7vh 5vw;
+      margin: 6vh 4vw 7vh 5vw;
       display: flex;
       padding: 0.1vh .1vw .1vh .1vw;
       border: 2px solid whitesmoke;
@@ -52,10 +52,12 @@
    .table1 {
       display: flex;
       border: 2px firebrick solid;
-      margin: -35px 5px;
+      margin: -4vh 1vw auto 1vw;
       padding: 6px 3px;
       border-radius: 5px;
       background-color: papayawhip;
+      position: relative;
+      bottom: .5vh;
    }
 
    .tablehead {

@@ -10,7 +10,8 @@
    color: white;
    font-size: 20px;
 }
-.topheadingmargin{
+
+.topheadingmargin {
    margin: -2vh 5vw 8vh 2vw;
    display: flex;
    padding: 2px 8px 2px 13px;
@@ -18,7 +19,8 @@
    border-radius: 19px;
    justify-content: center;
 }
-.topheadingmargin2{
+
+.topheadingmargin2 {
    margin: 0vh 4vw 6vh 1vw;
    display: flex;
    padding: 0.1vh .1vw .1vh .1vw;
@@ -29,10 +31,11 @@
 .table1 {
    display: flex;
    border: 2px firebrick solid;
-   margin: -16px 117px;
+   margin: -4vh 10vw 1vh 9vw;
    padding: 6px 3px;
    border-radius: 5px;
    background-color: papayawhip;
+   position: relative;
 }
 
 
@@ -46,7 +49,7 @@
 }
 
 .tablehe {
-   
+
    margin: -31px 0px 12px 889px;
    border: 2px solid brown;
    width: 11vw;
@@ -78,21 +81,23 @@
    border-radius: 19px;
 }
 
-.navbar{
+.navbar {
    display: flex;
    margin: 54px 10px 34px -1px;
    padding: 1px 30px 2px 30px;
 }
-.footcont{
+
+.footcont {
    color: burlywood;
    position: absolute;
    top: 302vh;
    left: 35vw;
    margin: 1vh auto
 }
-.botm{
+
+.botm {
    display: flex;
-margin: 2vh;
-justify-content: center;
-color: brown;
+   margin: 2vh;
+   justify-content: center;
+   color: brown;
 }
