@@ -1,0 +1,116 @@
+.headingtop {
+   text-align: center;
+   color: white;
+   font-size: 1.8vh;
+
+
+}
+
+.navbar1 {
+   display: grid;
+   margin: 47px -6px 36px 3px;
+   padding: 2px 27px 6px 22px;
+}
+
+.pdres {
+   display: inline-grid;
+   padding: 1vh 1vw 1vh 1vw;
+   border-radius: 19px;
+   justify-content: center;
+   font-size: 1.6vh;
+}
+
+.pd5 {
+   display: flex;
+   border: .3vh solid whitesmoke;
+   border-radius: 1vh;
+   justify-content: center;
+   margin: .5vh -1vw;
+   padding: 0.5vh 0.5vw 0.5vh .5vw;
+}
+
+.topheadingmargin {
+   margin: 0% 5% 0% 3%;
+   display: flex;
+   padding: 3% 4%;
+   border: 2px solid whitesmoke;
+   border-radius: 1.5vh;
+   justify-content: center;
+}
+
+.topheadingmargin2 {
+   margin: -9% 6%;
+   display: flex;
+   border-radius: 1.5vh;
+   justify-content: center;
+   background: black;
+   padding: 1%;
+}
+
+.table1 {
+   display: flex;
+   border: 0.5vh firebrick solid;
+   margin: 0% 0% 0% 1%;
+   padding: 1% 1% 1% 1%;
+   border-radius: 0.5vh;
+   background-color: papayawhip;
+   position: relative;
+   bottom: 0.5vh;
+   width: 97vw;
+}
+
+.tablehead {
+   display: flex;
+   margin: 1% 0%;
+   border: 0.4vh solid brown;
+   justify-content: center;
+   font-size: 2.2vh;
+   padding: 1% 1%;
+}
+
+.tablehe {
+   display: flex;
+   margin: -5vh 54vw;
+   border: 2px solid brown;
+   width: 25vw;
+   font-size: 1.6vh;
+   position: absolute;
+   justify-content: center;
+}
+
+.borderrd {
+   border: 0.5vh cadetblue solid;
+   padding: 1% 1% 1% 1%;
+   border-radius: 1.2vh;
+   display: flex;
+   font-size: 2.4vh;
+   justify-content: center;
+   margin: 1% 1%;
+
+}
+
+.downbox {
+   display: flex;
+   margin: -0.5% 0% -3% 59%;
+   font-size: 2vh;
+   position: inherit;
+   padding: 0.5% 0.5% 0.5% 4.5%;
+}
+
+.tbdymrg {
+   margin: 0vh 0vw -2vh;
+}
+
+.botm {
+   font-size: 1.4vh;
+   margin: 1% 1% 1% 1%;
+   display: flex;
+   color: brown;
+   justify-content: center;
+}
+
+.tablebdyfix {
+   display: flex;
+   flex-direction: column;
+   width: 94vw;
+}
